@@ -1,0 +1,43 @@
+# MAP GIT COMMANDS THROUGH HUB
+alias git=hub
+
+# ADD LOCAL CONFIGURATION HERE
+alias workspace='cd ~/Desktop/workspace/'
+alias projects='cd ~/Desktop/projects/'
+alias books='cd ~/Desktop/projects/books/'
+alias desktop='cd ~/Desktop/'
+
+# DO NOT EDIT BELOW THIS LINE
+alias dotfiles='mate ~/.aliases ~/.bash_history ~/.bashrc ~/.gemrc ~/.gitcli ~/.gitconfig ~/.gitignore ~/.profile'
+alias hostfiles="mate /etc/apache2/httpd.conf /etc/apache2/extra/httpd-vhosts.conf /etc/hosts"
+
+# IDEs
+alias mine="/Applications/RubyMine.app/Contents/MacOS/rubymine &"
+alias node-repl="rlwrap node-repl"
+
+# BROWSERS
+alias safari='open -a Safari'
+alias firefox='open -a FireFox'
+alias chrome='open -a Google\ Chrome'
+
+# MISC
+alias reload="source ~/.profile"
+alias cp='cp -i'
+alias mv='mv -i'
+alias ll='ls -la'
+alias termtips='mate ~/Documents/machine/scripts/terminal.sh'
+alias ftail='tail -f Library/Preferences/Macromedia/Flash\ Player/Logs/flashlog.txt'
+
+function show_colors() {
+  echo -e "${COLOR_BLACK}COLOR_BLACK"
+  echo -e "${COLOR_BLUE}COLOR_BLUE"
+  echo -e "${COLOR_BROWN}COLOR_BROWN"
+  echo -e "${COLOR_CYAN}COLOR_CYAN"
+  echo -e "${COLOR_GRAY}COLOR_GRAY"
+  echo -e "${COLOR_GREEN}COLOR_GREEN"
+  echo -e "${COLOR_MAGENTA}COLOR_MAGENTA"
+  echo -e "${COLOR_RED}COLOR_RED"
+  echo -e "${COLOR_WHITE}COLOR_WHITE"
+  echo -e "${COLOR_YELLOW}COLOR_YELLOW"
+  echo -e "${COLOR_NC}COLOR_NC"
+}
