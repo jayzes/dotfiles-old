@@ -8,7 +8,7 @@ alias books='cd ~/Desktop/projects/books/'
 alias desktop='cd ~/Desktop/'
 
 # DO NOT EDIT BELOW THIS LINE
-alias dotfiles='mate ~/.aliases ~/.bash_history ~/.bashrc ~/.gemrc ~/.gitcli ~/.gitconfig ~/.gitignore ~/.profile'
+alias dotfiles='mate ~/.homesick/repos/dotfiles/home/.aliases ~/.bash_history ~/.homesick/repos/dotfiles/home/.bashrc ~/.homesick/repos/dotfiles/home/.gemrc ~/.homesick/repos/dotfiles/home/.gitcli ~/.gitconfig ~/.homesick/repos/dotfiles/home/.gitignore ~/.homesick/repos/dotfiles/home/.profile'
 alias hostfiles="mate /etc/apache2/httpd.conf /etc/apache2/extra/httpd-vhosts.conf /etc/hosts"
 
 # IDEs
