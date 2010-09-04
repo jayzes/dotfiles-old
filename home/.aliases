@@ -7,6 +7,7 @@ alias projects='cd ~/Desktop/projects/'
 alias books='cd ~/Desktop/projects/books/'
 alias desktop='cd ~/Desktop/'
 alias tmstuff='cd ~/Library/Application\ Support/TextMate/'
+alias protosite='cd ~/Desktop/workspace/protosite/'
 
 # OPEN IN TEXTMATE
 alias dotfiles='mate ~/.homesick/repos/dotfiles/home/.ackrc ~/.homesick/repos/dotfiles/home/.aliases ~/.bash_history ~/.homesick/repos/dotfiles/home/.bashrc ~/.homesick/repos/dotfiles/home/.gemrc ~/.homesick/repos/dotfiles/home/.gitcli ~/.gitconfig ~/.homesick/repos/dotfiles/home/.gitignore ~/.homesick/repos/dotfiles/home/.profile'
