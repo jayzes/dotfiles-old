@@ -12,6 +12,8 @@
 	</data>
 	<key>Bell</key>
 	<true/>
+	<key>BlinkText</key>
+	<false/>
 	<key>CursorBlink</key>
 	<true/>
 	<key>CursorColor</key>
@@ -31,10 +33,10 @@
 	<data>
 	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
 	AAGGoKQHCBESVSRudWxs1AkKCwwNDg8QViRjbGFzc1ZOU05hbWVWTlNTaXplWE5TZkZs
-	YWdzgAOAAiNAKAAAAAAAABAQVk1vbmFjb9ITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNW
-	TlNGb250ohUXWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RobVHJvb3SAAQgRGiMt
-	Mjc8QktSWWBpa212eH+Ej5ifoqu9wMUAAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAA
-	AAAAxw==
+	YWdzgAOAAiNAKAAAAAAAABAQWE1lc2xvTEdN0hMUFRZaJGNsYXNzbmFtZVgkY2xhc3Nl
+	c1ZOU0ZvbnSiFRdYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRGhtUcm9vdIABCBEa
+	Iy0yNzxCS1JZYGlrbXZ4gYaRmqGkrb/CxwAAAAAAAAEBAAAAAAAAABwAAAAAAAAAAAAA
+	AAAAAADJ
 	</data>
 	<key>FontAntialias</key>
 	<true/>
@@ -43,11 +45,11 @@
 	<key>SelectionColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
-	AAGGoKMHCA9VJG51bGzTCQoLDA0OViRjbGFzc1xOU0NvbG9yU3BhY2VVTlNSR0KAAhAC
-	TxAhMC4xNTY4NjI3NSAwLjIzNTI5NDEyIDAuNDcwNTg4MjQA0hAREhNaJGNsYXNzbmFt
-	ZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcY
-	VHJvb3SAAQgRGiMtMjc7QUhPXGJkZoqPmqOrrrfJzNEAAAAAAAABAQAAAAAAAAAZAAAA
-	AAAAAAAAAAAAAAAA0w==
+	AAGGoKMHCA9VJG51bGzTCQoLDA0OViRjbGFzc1xOU0NvbG9yU3BhY2VVTlNSR0KAAhAB
+	TxAdMC4xMDU4ODIzNTI5IDAuMTY4NjI3NDUxIDAuNADSEBESE1okY2xhc3NuYW1lWCRj
+	bGFzc2VzV05TQ29sb3KiEhRYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRFxhUcm9v
+	dIABCBEaIy0yNztBSE9cYmRmhouWn6eqs8XIzQAAAAAAAAEBAAAAAAAAABkAAAAAAAAA
+	AAAAAAAAAADP
 	</data>
 	<key>ShouldLimitScrollback</key>
 	<integer>0</integer>
@@ -58,7 +60,7 @@
 	<key>ShowDimensionsInTitle</key>
 	<true/>
 	<key>ShowShellCommandInTitle</key>
-	<true/>
+	<false/>
 	<key>ShowTTYNameInTitle</key>
 	<false/>
 	<key>ShowWindowSettingsNameInTitle</key>
@@ -80,7 +82,7 @@
 	rK+0AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALY=
 	</data>
 	<key>UseBoldFonts</key>
-	<true/>
+	<false/>
 	<key>UseBrightBold</key>
 	<true/>
 	<key>VisualBell</key>
@@ -89,18 +91,18 @@
 	<string>mkitt</string>
 	<key>blackColour</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg4GAAD+DgYAAP4OBgAA/AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmAAAAAYY=
 	</data>
 	<key>blueColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg5eWFj+Dzs1NPwEBhg==
+	ZmZmAIOBgAA/AQGG
 	</data>
 	<key>brightBlackColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg4GAAD+DgYAAP4OBgAA/AYY=
+	ZmZmg6uqqj6Dq6qqPoOrqqo+AYY=
 	</data>
 	<key>brightBlueColour</key>
 	<data>
@@ -110,7 +112,7 @@
 	<key>brightCyanColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAIOBgAA/AQGG
+	ZmZmg/Hw8D6DtbQ0PoO+vT0/AYY=
 	</data>
 	<key>brightGreenColour</key>
 	<data>
@@ -120,12 +122,12 @@
 	<key>brightMagentaColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQABAYY=
+	ZmZmAYOBgAA/AQGG
 	</data>
 	<key>brightRedColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQAAAYY=
+	ZmZmg+blZT+DiYgIPoOnpqY+AYY=
 	</data>
 	<key>brightWhiteColour</key>
 	<data>
@@ -138,16 +140,16 @@
 	ZmZmAYPOzU0/AAGG
 	</data>
 	<key>columnCount</key>
-	<integer>80</integer>
+	<integer>120</integer>
 	<key>cyanColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAIOBgAA/AQGG
+	ZmZmAAEBAYY=
 	</data>
 	<key>greenColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg5eWFj8Bg8nISD4Bhg==
+	ZmZmg/X0dD6DnZwcPwABhg==
 	</data>
 	<key>keyMapBoundKeys</key>
 	<dict>
@@ -281,12 +283,12 @@
 	<key>whiteColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQEBAYY=
+	ZmZmg5qZGT+DmpkZP4OamRk/AYY=
 	</data>
 	<key>yellowColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg5qZGT+DzczMPoPNzEw+AYY=
+	ZmZmAYOXlhY/AAGG
 	</data>
 </dict>
 </plist>
