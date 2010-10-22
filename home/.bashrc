@@ -10,7 +10,7 @@ export HISTSIZE=500
 unset MAILCHECK
     
 export TERM=xterm-color
-export GREP_OPTIONS='--color=auto' GREP_COLOR='1;36'
+export GREP_OPTIONS='--color=auto' GREP_COLOR='0;36'
 export CLICOLOR=1
 alias ls='ls -G'
 export COLOR_NC='\033[0m' # No Color
@@ -67,4 +67,4 @@ export COLOR_WHITE='\033[1;37m'
 # 10. directory writable to others, with sticky bit
 # 11. directory writable to others, without sticky bit
 #      LSCOLORS=0102030405060708091011
-export LSCOLORS=cxGxFxdxDxexfxbxExCxHx
+export LSCOLORS=CxexFxdxDxBxfxbxExHxAx
